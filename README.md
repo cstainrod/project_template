@@ -4,9 +4,9 @@
 > * Group participants names: Avila, Sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
 > * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
-###Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
+### Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
-####Purpose:
+#### Purpose:
 To supplement existing curriculum for manipulating algebraic expressions to better understand the concept as well as practical application. This will increase accessibility for mathematics to help with learner performance and transfer of knowledge. Algebra was chosen as it is such a major base that much of the rest of mathematics is built upon.
 
 ### General Introduction
@@ -40,11 +40,11 @@ This launched an initiative across many school administrations to implement digi
 
 The proposed research design highlights the implications of learning within a virtual environment,  addresses current literature utilizing VR technology in the classroom, and provides an adaptive learning model to assist in…….
 
-####Research Method
+#### Research Method
 
 
 
-#####Proposed Solution
+##### Proposed Solution
 Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
 
 
