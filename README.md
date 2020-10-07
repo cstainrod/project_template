@@ -1,13 +1,18 @@
-# Research Practicum 2018 – Research Plan (Template)
-(text between brackets to be removed)
+# Research Practicum 2020  – Research Plan
 
 > * Group Name: The VR Mathronauts
 > * Group participants names: Avila, Sandy; Giroux, Amy; Havekost, Jay; Stainrod, Cortnee
 > * Project Title: Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
 
-## General Introduction
-Purpose:
+###Virtual Reality and Algebraic Visualizations: Learning Gains and Accessibility
+
+####Purpose:
 To supplement existing curriculum for manipulating algebraic expressions to better understand the concept as well as practical application. This will increase accessibility for mathematics to help with learner performance and transfer of knowledge. Algebra was chosen as it is such a major base that much of the rest of mathematics is built upon.
+
+### General Introduction
+
+
+### Related Work
 
 ##### Research Questions:
 1) Cognitive load: How does VR affect cognitive load between low and high level algebraic math skill tasks?
@@ -34,6 +39,10 @@ For example, careers within Science, Technology, Engineering and Mathematics (ST
 This launched an initiative across many school administrations to implement digital platforms for teaching abstract concepts, improve student motivation, and develop essential competencies for STEM careers. However, simply learning STEM concepts with digital learning technologies does not correlate with authentic learning based on the notion of inquiry (Yoon et al., 2012). As more classrooms integrate advanced learning technologies (ALTs) (e.g., virtual and augmented reality, intelligent tutoring systems, and adaptive hypermedia) to support classroom learning, literature supports that technology applications must scope beyond user engagement, fidelity, task recollection, and user satisfaction (Add Citations). Therefore, a significant challenge within STEM education is addressing how to determine the specific representational and instructional needs of learners, and model a learning tool that supports authentic learning experiences to lead to increased transfer effectiveness.
 
 The proposed research design highlights the implications of learning within a virtual environment,  addresses current literature utilizing VR technology in the classroom, and provides an adaptive learning model to assist in…….
+
+####Research Method
+
+
 
 #####Proposed Solution
 Teaching mathematics concepts, including the manipulation of equations has been covered by many teachers in many forms. Still, students can make it through their primary and secondary education and beyond without mastering these important skills. We propose creating a Virtual Reality trainer that allows learners to physically manipulate equations and formulas to better understand and create a foundation for their Algebraic knowledge. This VR trainer can supplement existing curricula and help catch the learners that too often fall through the cracks of a traditional learning environment. The trainer will include scaffolded content, allowing students to go through Learning lessons, as well as Guided and Un-guided modes to allow for growth with less frustration. Modes will include questions of varying difficulties to challenge students as they are ready to add complexity to their practice. A Challenge mode will allow users to transfer new algebraic knowledge into practical applications so learners will also understand the reasoning behind why they should learn these skills.
